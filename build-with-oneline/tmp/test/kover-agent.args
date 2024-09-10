@@ -1,0 +1,4 @@
+report.file=/Users/sheon/Workspace/kover-coverage-bug-240910/build/kover/bin-reports/test.ic
+exclude=android.*
+exclude=com.android.*
+exclude=jdk.internal.*
